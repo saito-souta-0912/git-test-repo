@@ -12,8 +12,8 @@ class Calculator:
     # @staticmethod
     # def sub(a, b)-> int:
     #     """引き算を行う."""
-    #def sub(a,b):
-     #   return a-b
+    def sub(a,b):
+        return a-b
     # 掛け算を行う関数を実装してください
     # @staticmethod
     # def mul(a, b) -> int:
