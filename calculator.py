@@ -27,9 +27,8 @@ class Calculator:
     #     """割り算を行う."""
     def dev(a,b):
         if(b == 0):
-        {
             print("割り切れません")
-        }
+        
 
         return a/b
 
